@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Rachit Jaiswal</h1>
 
 # 💫 About Me:
-I am a senior at Del Norte High School in San Diego, California. I’m passionate about AI, robotics, and cloud computing, dedicated to creating impactful tech solutions.
+I am a first-year at the Paul G. Allen School at the University of Washington. I’m passionate about AI, robotics, and cloud computing, dedicated to creating impactful tech solutions.
 
 ## 🚀 What I'm Up To
 
