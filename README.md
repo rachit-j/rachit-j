@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm [Rachit Jaiswal](https://www.rachitjaiswal.com/)</h1>
+<h1 align="center">Hi there 👋 I'm [Rachit Jaiswal]([url](https://www.rachitjaiswal.com/))</h1>
 
 # 💫 About Me:
 I am a first-year at the Paul G. Allen School at the University of Washington. I’m passionate about AI, robotics, and cloud computing, dedicated to creating impactful tech solutions.
